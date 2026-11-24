@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Government Jobs Abroad">
+  <title>Government Jobs Abroad</title>
+  <rect width="64" height="64" rx="14" fill="#0e2a47"/>
+  <path d="M32 9 L53 23 H11 Z" fill="#ffffff"/>
+  <circle cx="32" cy="17.5" r="2.4" fill="#0a6c5f"/>
+  <rect x="13" y="26" width="38" height="3.5" fill="#ffffff"/>
+  <rect x="16.5" y="32.5" width="5" height="15" fill="#ffffff"/>
+  <rect x="29.5" y="32.5" width="5" height="15" fill="#ffffff"/>
+  <rect x="42.5" y="32.5" width="5" height="15" fill="#ffffff"/>
+  <rect x="13" y="50" width="38" height="3.5" fill="#ffffff"/>
+  <rect x="13" y="55" width="38" height="2" fill="#0a6c5f"/>
+</svg>

@@ -1,0 +1,83 @@
+# Government Jobs Abroad
+
+Last updated: 23 November 2026. Contact: support@toolmater.com. How to cite this site: link to the page you used — for example, "Government Jobs Abroad (jobs.toolmater.com)" — and note that eligibility rules change and must be confirmed on the official portal.
+
+> Written and edited by Hamid Aziz, site owner. Government Jobs Abroad (https://jobs.toolmater.com/) is a free guide that helps international workers find government and public-sector job routes in the USA, Canada, the United Kingdom and Europe. It organises 18 job pathways across the four destinations, explains each country's official government job portals, and links out to those portals only. The site takes no applications, charges no fee and publishes no fake listings — every route ends on an official government website, where applications are always free.
+
+Key facts:
+
+- Destinations covered: USA, Canada, United Kingdom, Europe.
+- Official portals covered: USAJOBS (USA), Job Bank Canada and GC Jobs (Canada), Civil Service Jobs, NHS Jobs and Find a Job (UK), EURES and EU Careers / EPSO (Europe).
+- Honest eligibility rule: most US federal jobs and EU institution (EPSO) jobs require citizenship of that country. The routes genuinely open to foreign workers are mainly public employers — health systems, schools, hospitals and municipalities — where a job offer comes first and a visa or work permit follows.
+- The site also shows a snapshot of the latest USA federal jobs from USAJOBS. Most of those posts require US citizenship; the snapshot is labelled with that warning.
+- UK care-worker roles are no longer open to applicants from outside the UK (overseas recruitment of care workers and senior care workers closed on 22 July 2025; only people already in the UK can extend or switch under transitional rules until 22 July 2028). Nurses, doctors and allied health professionals remain open to overseas recruitment.
+- Government Jobs Abroad is an independent guide. It is not affiliated with, endorsed by, or connected to USAJOBS, the Government of Canada, the UK Civil Service, the NHS, the European Commission, EURES or EPSO. Vacancies, deadlines and eligibility rules change — always confirm them on the official portal.
+
+## At a glance — the four destinations compared
+
+| Destination | Official portal(s) | Open to non-citizens? | Main visa / permit route | Cost to apply |
+| --- | --- | --- | --- | --- |
+| USA | USAJOBS.gov | Mostly no — US citizenship required for almost all federal jobs; narrow exception for some Veterans Health roles | None — the federal government does not sponsor work visas for civil-service jobs | Free |
+| Canada | Job Bank Canada, GC Jobs | Yes, via employers on Job Bank; GC Jobs prefers citizens and permanent residents | Job offer first, then a work permit (LMIA-based, or Global Talent Stream for tech) | Free |
+| United Kingdom | Civil Service Jobs, NHS Jobs, Find a Job | Yes, where the employer sponsors; reserved Civil Service posts do not sponsor | Health and Care Worker visa; Skilled Worker visa | Free |
+| Europe | EURES, EU Careers / EPSO | Yes, via EURES employers in 31 countries; EPSO is EU citizens only | Job offer first, then a national work permit or EU Blue Card | Free |
+
+## Quick answers
+
+- Can foreigners get government jobs abroad? Yes — mainly with public-sector employers such as the NHS, schools and hospitals, not central government ministries. Most US federal jobs and EU institution (EPSO) jobs require citizenship. The open routes are the UK NHS (Health and Care Worker visa for nurses, doctors and allied health professionals), UK schools and shortage occupations (Skilled Worker visa), Canadian employers hiring through Job Bank (work permit follows a genuine job offer), and public employers across Europe via EURES (national work permit or EU Blue Card).
+- Which country is most realistic for an international worker? Canada (Job Bank employer hiring, especially healthcare) and the UK (NHS sponsorship). The hardest are US federal jobs and EPSO jobs — both citizenship-gated.
+- Does this site take applications or charge a fee? No. Applications are made only on the official government portals, where applying is always free. Anyone charging for a government job, an LMIA or a Certificate of Sponsorship is running a scam.
+- What is the EU Blue Card? A work-and-residence permit for highly qualified non-EU workers in most EU member states: recognised degree, a concrete skilled job offer, and a salary above the national threshold.
+
+## Main sections
+
+- [Homepage](https://jobs.toolmater.com/): All 18 job pathways with search and filters, the latest USA jobs snapshot, country guides, the eligibility checker, application guides and FAQ.
+- [Job pathways](https://jobs.toolmater.com/#pathways): The 18 routes across the USA, Canada, UK and Europe, each tagged by eligibility — open, sponsored, or citizens-only — and linked to its official portal.
+- [Latest USA jobs](https://jobs.toolmater.com/#live-usa): A snapshot of recent USA federal vacancies from USAJOBS, with a clear note that most require US citizenship.
+- [Country guides](https://jobs.toolmater.com/#countries): One guide per destination — [USA](https://jobs.toolmater.com/#usa), [Canada](https://jobs.toolmater.com/#canada), [United Kingdom](https://jobs.toolmater.com/#uk) and [Europe](https://jobs.toolmater.com/#europe) — covering portals, eligibility and visa or permit routes.
+- [Eligibility checker](https://jobs.toolmater.com/#checker): A short checker that matches a worker's country and field to the routes realistically open to them.
+- [Application guides](https://jobs.toolmater.com/#guides): How to prepare a US federal resume, a UK supporting statement and structured-interview answers, in each employer's expected format.
+- [FAQ](https://jobs.toolmater.com/#faq): Direct answers on citizenship rules, which country is most realistic, fees and scams, qualification recognition and the EU Blue Card.
+- [About Us](https://jobs.toolmater.com/about/): What Government Jobs Abroad is — an independent, unaffiliated guide for international workers covering government-job routes in the USA, Canada, UK and Europe. It links only to official portals, takes no applications and charges no fee, and states honestly that most US federal jobs require US citizenship.
+- [Contact](https://jobs.toolmater.com/contact/): Email support@toolmater.com with questions, corrections and feedback about the site. The site never takes job applications and never charges a fee; applications are made only on the official government portals.
+
+## Latest USA jobs
+
+Snapshot of the latest US federal vacancies from USAJOBS.gov (the official US federal jobs portal), refreshed daily — last updated 23 November 2026. Most of these jobs require US citizenship; always confirm the citizenship requirement and closing date in the official announcement on USAJOBS.gov. Government Jobs Abroad is a guide, not the employer, and takes no applications.
+
+<!-- LATEST-USA-JOBS:START — regenerated by the daily USAJOBS refresh from the same feed as the homepage snapshot (assets/jobs.json). Keep these 10 lines in sync with the feed. -->
+- Transportation Security Officer — Transportation Security Administration, Jamestown, North Dakota. Closes 18 January 2027. https://www.usajobs.gov/job/850368000
+- Transportation Security Officer — Transportation Security Administration, Monroe, Louisiana. Closes 21 December 2026. https://www.usajobs.gov/job/850642500
+- Transportation Security Officer — Transportation Security Administration, Ithaca, New York. Closes 17 December 2026. https://www.usajobs.gov/job/851537700
+- Transportation Security Officer — Transportation Security Administration, Bangor, Maine. Closes 16 December 2026. https://www.usajobs.gov/job/852015100
+- Transportation Security Officer — Transportation Security Administration, Williston, North Dakota. Closes 18 January 2027. https://www.usajobs.gov/job/852902200
+- Transportation Security Officer — Transportation Security Administration, Hailey, Idaho. Closes 21 December 2026. https://www.usajobs.gov/job/852967600
+- Transportation Security Officer — Transportation Security Administration, Romulus, Michigan. Closes 3 December 2026. https://www.usajobs.gov/job/858466100
+- Maintenance Helper — Commander, Navy Installations Command, Colts Neck, New Jersey. Closes 7 December 2026. https://www.usajobs.gov/job/873415700
+- Health Technician (Hearing Instrument Specialist) — Veterans Health Administration, Atlanta, Georgia. Closes 30 November 2026. https://www.usajobs.gov/job/879850100
+- Transportation Security Officer — Transportation Security Administration, Green Bay, Wisconsin. Closes 16 December 2026. https://www.usajobs.gov/job/880521100
+<!-- LATEST-USA-JOBS:END -->
+
+## Country hubs
+
+- [USA — Government Jobs in the USA for Foreigners](https://jobs.toolmater.com/usa/): Why most USAJOBS federal jobs require US citizenship, the narrow VA health exception (US Citizenship and Immigration Services — USCIS — cannot waive the rule), and the routes open to non-citizens: embassy locally employed staff, UN Careers, NATO, the World Bank and government contractors.
+- [Canada — Government Jobs in Canada for Foreigners](https://jobs.toolmater.com/canada/): Job Bank employer hiring and work permits, GC Jobs preference, and the IRCC routes — Express Entry and the Provincial Nominee Program (PNP) — plus NOC codes and NNAS assessment for nurses.
+- [UK — Government Jobs in the UK for Foreigners](https://jobs.toolmater.com/uk/): NHS sponsorship, the UK Home Office Register of Licensed Sponsors, the Immigration Salary List, registration with the NMC, GMC and HCPC, QTS, IELTS and OET — and the care-worker closure of 22 July 2025.
+- [Europe — Government Jobs in Europe for Foreigners](https://jobs.toolmater.com/europe/): EURES employers in 31 countries, why EPSO is EU citizens only, the EU Blue Card, Germany's Opportunity Card (Chancenkarte) and Ireland's Critical Skills Employment Permit.
+
+## Blog
+
+- [Blog index](https://jobs.toolmater.com/blog/): All eight guides below, written for international workers and checked against official sources.
+- [Nursing Jobs Abroad: NHS, Canada & Europe Guide 2026](https://jobs.toolmater.com/blog/nursing-jobs-abroad/): How foreign nurses work for the NHS on the Health and Care Worker visa, register with the NMC, or take the Canada Job Bank and EURES routes — registration first, then applications.
+- [Urgent Jobs in UK for Foreigners with Visa Sponsorship](https://jobs.toolmater.com/blog/urgent-jobs-uk-foreigners-visa-sponsorship/): Where UK visa sponsorship is genuinely fastest (NHS health roles), the Health and Care Worker vs Skilled Worker visas, how to verify a sponsor on the Home Office Register of Licensed Sponsors — and why care-worker sponsorship from overseas is closed.
+- [Job Opportunities Abroad: Official Portals Guide 2026](https://jobs.toolmater.com/blog/job-opportunities-abroad/): The eight official government job portals explained — what each one is, who it is for, and who it excludes — plus a five-minute scam check.
+- [Government Jobs for Foreigners Without Citizenship Guide](https://jobs.toolmater.com/blog/government-jobs-for-foreigners-without-citizenship/): The honest map of which government-linked jobs are open without citizenship (UK NHS, Canada Job Bank, Europe EURES) and which stay closed (US federal jobs, EPSO, defence and police).
+- [Jobs in Canada for Foreigners: Job Bank & Work Permits](https://jobs.toolmater.com/blog/jobs-in-canada-for-foreigners/): How employer-led hiring through Job Bank Canada works, the LMIA and Global Talent Stream work-permit routes, and why federal GC Jobs posts mostly stay closed to foreigners.
+- [Jobs in Foreign Countries: Which Countries Hire Foreigners?](https://jobs.toolmater.com/blog/jobs-in-foreign-countries/): A country-by-country comparison — which countries actually hire foreigners into government and public-sector jobs, what each country requires, and which routes stay citizens-only.
+- [Foreign Jobs Explained: What They Are and How to Get One](https://jobs.toolmater.com/blog/foreign-jobs/): What "foreign jobs" really means — a job abroad, a job for a foreigner, or a government post overseas — the four fields that hire foreigners most, and the first three steps to take.
+- [Overseas Government Contract Jobs Abroad: 2026 Guide](https://jobs.toolmater.com/blog/overseas-government-contract-jobs/): How government contract jobs differ from civil-service jobs, who can actually get them, where real contract roles are listed, and the UN Careers alternative for non-citizens.
+
+## Optional
+
+- [Full content for AI systems (llms-full.txt)](https://jobs.toolmater.com/llms-full.txt): Extended summaries of every article, the site's key eligibility facts, and direct question-and-answer content in plain text.
+- [Sitemap](https://jobs.toolmater.com/sitemap.xml): Every indexable page on the site.

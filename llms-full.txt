@@ -1,0 +1,125 @@
+# Government Jobs Abroad — Full Content for AI Systems
+
+Site: https://jobs.toolmater.com/
+Short version: https://jobs.toolmater.com/llms.txt
+Last updated: 23 November 2026. Contact: support@toolmater.com.
+
+Government Jobs Abroad is a free guide, written and edited by Hamid Aziz (site owner), that helps international workers find government and public-sector job routes in the USA, Canada, the United Kingdom and Europe. It organises 18 job pathways across the four destinations, explains each country's official government job portals, and links out to those portals only. The site takes no applications, charges no fee and publishes no fake listings — every route ends on an official government website, where applications are always free.
+
+The site is an independent guide. It is not affiliated with, endorsed by, or connected to USAJOBS, the Government of Canada, the UK Civil Service, the NHS, the European Commission, EURES or EPSO. Vacancies, deadlines, salaries and eligibility rules change — always confirm them on the official portal before applying.
+
+## Key eligibility facts
+
+- Most US federal jobs legally require US citizenship. Green-card holders are not eligible for most federal posts, and the US government does not sponsor work visas for civil-service jobs. A narrow exception exists in some Veterans Health hiring, where a non-citizen may be appointed only when no qualified US citizen is available.
+- Permanent jobs in the EU institutions, recruited through EPSO / EU Careers, require citizenship of an EU member state plus two EU languages. There is no sponsorship route. Non-EU citizens should use EURES and national public employers instead.
+- Defence and police roles require citizenship in all four destinations, usually with security vetting and residency history. There is no visa route into them.
+- The routes genuinely open to foreign workers are public employers, not ministries: the UK NHS (Health and Care Worker visa for nurses, doctors and allied health professionals), UK schools and shortage occupations (Skilled Worker visa), Canadian employers hiring through Job Bank (work permit follows a genuine job offer), and national public employers across Europe reached through EURES (national work permit or EU Blue Card).
+- In Canada, it is illegal for anyone to charge a worker for a job offer or an LMIA. In the UK, no genuine employer charges for a Certificate of Sponsorship. Governments never sell jobs: any fee for an application, a permit, a clearance or a "guaranteed" offer means the offer is a scam.
+- UK care-worker roles are no longer open to applicants from outside the UK (overseas recruitment of care workers and senior care workers closed on 22 July 2025; only people already in the UK can extend or switch under transitional rules until 22 July 2028). Nurses, doctors and allied health professionals remain open to overseas recruitment.
+- For regulated professions — nursing, medicine, teaching, engineering, most trades — qualification recognition comes first and can take months: NMC registration in the UK, provincial licensing in Canada, recognition (Anerkennung) in Germany.
+
+## At a glance — the four destinations compared
+
+| Destination | Official portal(s) | Open to non-citizens? | Main visa / permit route | Cost to apply |
+| --- | --- | --- | --- | --- |
+| USA | USAJOBS.gov | Mostly no — US citizenship required for almost all federal jobs; narrow exception for some Veterans Health roles | None — the federal government does not sponsor work visas for civil-service jobs | Free |
+| Canada | Job Bank Canada, GC Jobs | Yes, via employers on Job Bank; GC Jobs prefers citizens and permanent residents | Job offer first, then a work permit (LMIA-based, or Global Talent Stream for tech) | Free |
+| United Kingdom | Civil Service Jobs, NHS Jobs, Find a Job | Yes, where the employer sponsors; reserved Civil Service posts do not sponsor | Health and Care Worker visa; Skilled Worker visa | Free |
+| Europe | EURES, EU Careers / EPSO | Yes, via EURES employers in 31 countries; EPSO is EU citizens only | Job offer first, then a national work permit or EU Blue Card | Free |
+
+Key numbers: 18 job pathways; 8 official government portals; 4 destinations; 31 European countries covered by EURES; 0 application fees on any official portal.
+
+## Main sections of the homepage
+
+- Job pathways (https://jobs.toolmater.com/#pathways): the 18 routes across the USA, Canada, UK and Europe, searchable and filterable by country, category and eligibility. Open and sponsored routes are tagged in green and teal; citizens-only routes are tagged in red. Each pathway card links to its official portal.
+- Latest USA jobs (https://jobs.toolmater.com/#live-usa): a snapshot of recent USA federal vacancies from USAJOBS, labelled with the warning that most US federal jobs require US citizenship and are not open to applicants from any country.
+- Country guides (https://jobs.toolmater.com/#countries): separate guides for the USA, Canada, the United Kingdom and Europe covering portals, citizenship rules and visa or permit routes.
+- Eligibility checker (https://jobs.toolmater.com/#checker): a short checker that matches a worker's destination and field to the routes realistically open to them.
+- Application guides (https://jobs.toolmater.com/#guides): how to write a US federal resume, a UK supporting statement and cover letter, and how to prepare for structured interviews.
+- FAQ (https://jobs.toolmater.com/#faq): six direct questions and answers, reproduced below.
+- About Us (https://jobs.toolmater.com/about/): what the site is, what it covers, and what it is not.
+- Contact (https://jobs.toolmater.com/contact/): how to reach the site by email.
+
+## Latest USA jobs — the current USAJOBS snapshot
+
+The homepage shows a snapshot of the latest US federal vacancies from USAJOBS.gov (https://jobs.toolmater.com/#live-usa), refreshed daily — last updated 23 November 2026. The same 10 jobs are printed as static HTML on the homepage, so they can be read without JavaScript. Most of these jobs require US citizenship and are not open to foreign applicants; always confirm the citizenship requirement and closing date in the official announcement. Government Jobs Abroad is a guide, not the employer.
+
+<!-- LATEST-USA-JOBS:START — regenerated by the daily USAJOBS refresh from the same feed as the homepage snapshot (assets/jobs.json). Keep these 10 lines in sync with the feed. -->
+- Transportation Security Officer — Transportation Security Administration, Jamestown, North Dakota. Closes 18 January 2027. https://www.usajobs.gov/job/850368000
+- Transportation Security Officer — Transportation Security Administration, Monroe, Louisiana. Closes 21 December 2026. https://www.usajobs.gov/job/850642500
+- Transportation Security Officer — Transportation Security Administration, Ithaca, New York. Closes 17 December 2026. https://www.usajobs.gov/job/851537700
+- Transportation Security Officer — Transportation Security Administration, Bangor, Maine. Closes 16 December 2026. https://www.usajobs.gov/job/852015100
+- Transportation Security Officer — Transportation Security Administration, Williston, North Dakota. Closes 18 January 2027. https://www.usajobs.gov/job/852902200
+- Transportation Security Officer — Transportation Security Administration, Hailey, Idaho. Closes 21 December 2026. https://www.usajobs.gov/job/852967600
+- Transportation Security Officer — Transportation Security Administration, Romulus, Michigan. Closes 3 December 2026. https://www.usajobs.gov/job/858466100
+- Maintenance Helper — Commander, Navy Installations Command, Colts Neck, New Jersey. Closes 7 December 2026. https://www.usajobs.gov/job/873415700
+- Health Technician (Hearing Instrument Specialist) — Veterans Health Administration, Atlanta, Georgia. Closes 30 November 2026. https://www.usajobs.gov/job/879850100
+- Transportation Security Officer — Transportation Security Administration, Green Bay, Wisconsin. Closes 16 December 2026. https://www.usajobs.gov/job/880521100
+<!-- LATEST-USA-JOBS:END -->
+
+## About and contact
+
+Government Jobs Abroad is an independent guide. It is not affiliated with, endorsed by, or connected to USAJOBS, the Government of Canada, the UK Civil Service, the NHS, the European Commission, EURES or EPSO. It helps international workers find government-job routes in the USA, Canada, the United Kingdom and Europe, organises 18 job pathways across the four destinations, and links only to official government portals. The site takes no applications and charges no fee — every application is made on the official portal, where applying is always free. Most US federal jobs require US citizenship; the About page states this honestly, along with the narrow Veterans Health exception.
+
+Contact: email support@toolmater.com for questions about the guides, corrections (for example a changed rule or a broken portal link), and feedback. The site cannot accept applications or CVs, cannot check an application's status, and never charges a fee for anything. Anyone asking for payment for a government job, a work permit, an LMIA or a Certificate of Sponsorship is running a scam.
+
+## Homepage FAQ
+
+Q: Can foreigners really get government jobs in the USA?
+A: Only in narrow cases. Almost all US federal jobs legally require US citizenship. The main exception is some healthcare hiring (notably the VA), where a non-citizen may be appointed when no qualified citizen is available. Green-card holders are not eligible for most federal posts. If you are not a US citizen, the realistic US routes are government contractors or state-level employers with their own rules — always check the announcement's citizenship line on USAJOBS.
+
+Q: Which country is most realistic for an international worker?
+A: For most people: Canada (Job Bank employer hiring with work-permit support, especially healthcare) and the UK (NHS sponsorship through the Health and Care Worker visa). In Europe, EURES routes into Ireland, Germany and the Nordics are realistic for healthcare and shortage occupations. The hardest are US federal jobs and EU institution (EPSO) jobs, both of which are citizenship-gated.
+
+Q: Do I apply on this website?
+A: No — and you should be suspicious of any site that says otherwise. This site is a guide. Every application is made on the official government portal linked from each pathway (USAJOBS.gov, Job Bank / GC Jobs, Civil Service Jobs, NHS Jobs, Find a Job, EURES, EU Careers). Those services are free.
+
+Q: Someone is offering me a government job abroad for a fee. Is it real?
+A: Almost certainly not. Governments do not sell jobs, charge application fees through agents, or issue work permits without a real job offer and an official process. Never pay for an LMIA (Canada), a Certificate of Sponsorship (UK), or a "guaranteed" EU permit. Verify every offer by finding the same vacancy on the official portal.
+
+Q: Do I need my qualifications recognised before applying?
+A: For regulated professions — nursing, medicine, teaching, engineering, most trades — yes, in practice. Recognition (for example NMC registration in the UK, provincial licensing in Canada, Anerkennung in Germany) can take months, and employers usually cannot hire you without it. Start recognition first, and state its status honestly in applications.
+
+Q: What is the EU Blue Card?
+A: A work-and-residence permit for highly qualified non-EU workers, available in most EU member states. It requires a recognised degree (or qualifying experience in some countries), a concrete job offer in a skilled role, and a salary above the national threshold. Apply through the destination country's official immigration authority — EURES advisers can explain the national rules for free.
+
+## Country hub pages
+
+- USA (https://jobs.toolmater.com/usa/): the US citizenship rule for federal jobs, the narrow VA health exception, USCIS's role (immigration paperwork only — no route into federal jobs), and the non-citizen routes: embassy locally employed staff hired through the State Department's Electronic Recruitment Application (ERA), UN Careers, NATO, the World Bank and government contractors.
+- Canada (https://jobs.toolmater.com/canada/): Job Bank employer-led hiring (job offer first, then a work permit — LMIA or the Global Talent Stream), GC Jobs' legal preference for citizens and permanent residents, NOC occupation codes, NNAS assessment for internationally educated nurses, and IRCC's Express Entry and Provincial Nominee Program (PNP).
+- UK (https://jobs.toolmater.com/uk/): the three portals (Civil Service Jobs, NHS Jobs, Find a Job), sponsorship through the UK Home Office's Register of Licensed Sponsors, the Immigration Salary List, registration with the NMC, GMC and HCPC, QTS recognition, IELTS and OET language tests — and the closure of overseas care-worker recruitment on 22 July 2025.
+- Europe (https://jobs.toolmater.com/europe/): EURES employers across 31 countries, EPSO's EU-citizenship rule, the EU Blue Card, Germany's Opportunity Card (Chancenkarte) for job seekers, and Ireland's Critical Skills Employment Permit for shortage occupations.
+
+## Blog articles — extended summaries
+
+### Nursing Jobs Abroad: NHS, Canada & Europe Guide 2026
+URL: https://jobs.toolmater.com/blog/nursing-jobs-abroad/
+Nursing is the most open government-linked route for international workers, but every route runs through professional registration first. In the UK, NHS vacancies are listed on NHS Jobs and eligible roles sponsor the Health and Care Worker visa; before a trust can hire you, you must register with the Nursing and Midwifery Council (NMC), which normally means an English test (IELTS or OET), a computer-based test and an OSCE practical exam. In Canada, nurses are hired by provincial health authorities and hospitals through Job Bank Canada, and licensing is provincial — you register with the regulator of the province where you will work, after a genuine job offer leads to a work permit. In Europe, public hospitals in countries such as Ireland, Germany and the Nordics recruit through EURES; your qualification must be recognised in the destination country and most roles require the local language at roughly B1–B2 level. The order that works: pick one country, start registration and language testing, search only on the official portal, verify the employer, and apply inside the official process only. Anyone charging for a Certificate of Sponsorship, an LMIA or "fast-track registration" is running a scam.
+
+### Urgent Jobs in UK for Foreigners with Visa Sponsorship
+URL: https://jobs.toolmater.com/blog/urgent-jobs-uk-foreigners-visa-sponsorship/
+"Urgent" UK hiring for foreigners is real mainly in health: NHS trusts recruit nurses, doctors and allied health professionals internationally at scale and sponsor the Health and Care Worker visa. Care-worker roles are closed to applicants from outside the UK — overseas recruitment of care workers and senior care workers ended on 22 July 2025, with transitional rules for people already in the UK until 22 July 2028. Teaching in shortage subjects (maths, science, computing, languages) sponsors the Skilled Worker visa, and some public-sector IT, engineering and specialist roles can too, when the employer is licensed and the role meets the visa's salary and skill rules. The two visas in plain language: the Health and Care Worker visa covers eligible health roles with an approved employer (adult social care roles only for people already in the UK under the transitional rules); the Skilled Worker visa is the general sponsored route. Both are applied for on GOV.UK after the employer issues a Certificate of Sponsorship. To verify a sponsor: find the same vacancy on NHS Jobs, Civil Service Jobs or Find a Job; check the employer on the UK Home Office's official Register of Licensed Sponsors on GOV.UK; read the advert's right-to-work box — "must have the right to work in the UK" means no sponsorship. No legitimate employer can skip registration, licensing or the visa process, and core Civil Service and defence posts often carry nationality requirements and do not sponsor visas at all.
+
+### Job Opportunities Abroad: Official Portals Guide 2026
+URL: https://jobs.toolmater.com/blog/job-opportunities-abroad/
+Almost every real job opportunity abroad starts on one of eight official government portals, and applying on each is free. USAJOBS carries every US federal vacancy but is the most restricted: almost all posts require US citizenship and the federal government does not sponsor work visas. Job Bank Canada is the national board where public-sector, health and education employers post vacancies, and it is the realistic door for foreign workers because employers there can support work permits; GC Jobs, the federal public service portal, gives preference by law to veterans, citizens and permanent residents. In the UK, Civil Service Jobs covers central government (nationality rules apply per advert), NHS Jobs is the big international recruiter with Health and Care Worker visa sponsorship, and Find a Job covers the wider public sector. In Europe, EURES links public employment services in 31 countries and is open to non-EU workers with a job offer plus a national work permit or EU Blue Card, while EU Careers / EPSO recruits the EU institutions' own staff from EU citizens only. The five-minute scam check: if the vacancy is not on the official portal, if anyone asks for a fee, if the offer arrives by social media with no interview, if the email domain does not match the employer, or if they ask to keep your passport — walk away.
+
+### Government Jobs for Foreigners Without Citizenship Guide
+URL: https://jobs.toolmater.com/blog/government-jobs-for-foreigners-without-citizenship/
+The honest map of government work without citizenship. Open routes: the UK NHS sponsors the Health and Care Worker visa for health roles (not care workers — that route closed to overseas applicants in July 2025) and schools sponsor Skilled Worker visas for shortage subjects — you need registration and a licensed sponsor, not British citizenship; Canadian employers (health authorities, school districts, municipalities) hire foreign workers through Job Bank with a work permit that follows a genuine job offer; non-EU workers can be hired by national public employers across Europe through EURES, entering on a national work permit or the EU Blue Card. Closed routes: almost every US federal post on USAJOBS legally requires US citizenship, with only a narrow Veterans Health exception when no qualified citizen is available; EPSO permanent jobs require EU citizenship plus two EU languages, with no sponsorship route; defence and police roles require citizenship everywhere. The two-minute check for any single job: open the official advert, find the citizenship or right-to-work line, and if it says citizens only, move on. The pattern to remember: governments hire their own citizens for government itself — but health systems, schools and public employers hire the world.
+
+### Jobs in Canada for Foreigners: Job Bank & Work Permits
+URL: https://jobs.toolmater.com/blog/jobs-in-canada-for-foreigners/
+Canada is the most realistic destination on this site for foreign workers, but the route is employer-led, not government-led: you get hired by an employer first and the work permit follows. Job Bank Canada is the federal government's national job board, where provincial health authorities, school districts, municipalities and private employers post vacancies; what matters is whether the individual posting accepts international candidates and supports a work permit. For many roles the employer first obtains a Labour Market Impact Assessment (LMIA), then you apply for the work permit — and it is illegal for anyone to charge the worker for a job offer or an LMIA. The Global Talent Stream gives eligible employers a faster work-permit route for in-demand tech and specialist roles, but it is employer-driven and still needs a genuine job offer. Express Entry is a separate points-based permanent-residence system, not a job board. Healthcare is the strongest field, followed by IT and engineering and teaching; licensing and certification are provincial. GC Jobs, the federal public service portal, gives legal preference to veterans, citizens and permanent residents, so most external postings are effectively closed to work-permit holders.
+
+### Jobs in Foreign Countries: Which Countries Hire Foreigners?
+URL: https://jobs.toolmater.com/blog/jobs-in-foreign-countries/
+A job in a foreign country is only real if it exists on an official portal and comes with a legal work route. Canada is the most open door: Job Bank employers can support work permits, while federal GC Jobs gives preference by law to veterans, citizens and permanent residents. The UK hires foreigners into specific sponsored roles — NHS health roles on the Health and Care Worker visa (care-worker roles closed to overseas applicants in July 2025), teaching and shortage occupations on the Skilled Worker route — listed on NHS Jobs, Civil Service Jobs and Find a Job. In Europe the route is EURES, which links public employment services in 31 countries for non-EU workers with a job offer plus a national work permit or EU Blue Card; EPSO is EU citizens only. US federal jobs on USAJOBS are mostly citizens-only. Before applying: check eligibility first, match the route to the visa (a job offer is not a visa — Canada needs a work permit, the UK a Certificate of Sponsorship, Europe a national permit or Blue Card), and sort credentials and language early. Fake-offer warnings: the vacancy is not on the official portal, a fee is requested, the offer arrives by social media with no interview and pressure to pay today, the email domain does not match the employer, or they ask to keep your passport.
+
+### Foreign Jobs Explained: What They Are and How to Get One
+URL: https://jobs.toolmater.com/blog/foreign-jobs/
+"Foreign jobs" can mean three different things: a job abroad (you move to another country to work; the route is a job offer plus a work permit or visa), a job for a foreigner (the employer is allowed and willing to sponsor someone from outside the country), or a government post overseas (citizenship rules decide most of these, not the job title). Government vacancies live on official portals only — USAJOBS, Job Bank Canada, Civil Service Jobs, NHS Jobs and EURES — and citizenship rules are strictest there: US federal jobs and EU institution posts are effectively citizens-only, while Canada and the UK open specific sponsored roles. Private employers hire foreigners far more often — hospitals, schools, farms, construction and tech firms that hold a sponsor licence. Four fields account for most genuine foreign hiring because the shortages are structural: healthcare (NHS Health and Care Worker visa, Canadian health employers via Job Bank, European hospitals via EURES), IT and software (Canada's Global Talent Stream, the EU Blue Card, UK Skilled Worker sponsorship), teaching (UK shortage subjects, provincially certified teachers in Canada) and engineering (shortage lists in Canada and parts of Europe, EU Blue Card). First three steps: run the eligibility checker, filter the 18 pathways by country, category and eligibility, then apply only on the official portal linked from the pathway card.
+
+### Overseas Government Contract Jobs Abroad: 2026 Guide
+URL: https://jobs.toolmater.com/blog/overseas-government-contract-jobs/
+Overseas government contract jobs are not civil-service jobs: a private company wins a government contract — defence support, logistics, IT, construction, health — and hires staff to deliver it abroad. The pay and rules are the company's, but the citizenship and security checks are the government's. A contract award notice is not a vacancy; check the company's own careers page. Most US defence and federal-support contract roles require US citizenship and a security clearance that takes months and can never be bought or sped up by an agent; some support roles (logistics, catering, construction, local administration) hire locally in the host country. UK and European contractors hire more openly across nationalities, but each contract sets its own nationality and vetting rules. Real contract roles are listed on company careers pages; SAM.gov (USA), Contracts Finder (UK) and Buy and Sell (Canada) verify that a company holds a contract — they are award registers, not job boards. For non-citizens, the United Nations is often the more realistic overseas route: UN Careers hires internationally by design, nationality is not a bar, applications are free, and the UN never charges a fee or recruits through paid agents.

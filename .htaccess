@@ -1,0 +1,66 @@
+# Government Jobs Abroad — server rules for jobs.toolmater.com
+# Place this file at the subdomain document root (next to index.html).
+# Works on Apache / LiteSpeed (Hostinger shared hosting).
+
+# ---------- Force HTTPS + canonical URL form ----------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Always serve over HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Canonical form: /index.html -> /
+  RewriteRule ^index\.html$ / [R=301,L]
+
+  # Canonical form: /blog/index.html -> /blog/
+  RewriteRule ^blog/index\.html$ /blog/ [R=301,L]
+
+  # Canonical form: /blog/<article>.html -> /blog/<article>/
+  RewriteRule ^blog/([a-z0-9-]+)\.html$ /blog/$1/ [R=301,L]
+
+  # Canonical form: /<page>.html -> /<page>/ (country hubs, about, contact — added in pack v12)
+  RewriteRule ^(usa|canada|uk|europe|about|contact)\.html$ /$1/ [R=301,L]
+</IfModule>
+
+# ---------- Security headers ----------
+<IfModule mod_headers.c>
+  # HSTS: force HTTPS for one year, including subdomains
+  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+  # Stop MIME-type sniffing
+  Header set X-Content-Type-Options "nosniff"
+  # Send only the origin as referrer to other sites
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  # Allow framing only by this site itself
+  Header set X-Frame-Options "SAMEORIGIN"
+  # Turn off browser features the site never uses
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# ---------- Browser caching: long lifetimes for static assets ----------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  # The jobs feed refreshes daily — keep its cache short
+  ExpiresByType application/json "access plus 1 hour"
+  # HTML always revalidates so content updates show immediately
+  ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(?:svg|jpg|jpeg|png|webp|ico|css|js)$">
+    Header set Cache-Control "public, max-age=2592000, immutable"
+  </FilesMatch>
+</IfModule>
+
+# ---------- Compression ----------
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json image/svg+xml
+</IfModule>
