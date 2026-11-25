@@ -1,12 +1,15 @@
-Government Jobs Abroad — Upload Pack v22
+Government Jobs Abroad — Upload Pack v23
 =========================================
 Subdomain: jobs.toolmater.com
-Pack version: v22 (24 November 2026) — replaces v21 (v21 is LIVE
-since 24 Nov 2026). Content is v21 (dotted world map hero,
-Option 3, hero aria-label) + fresh USAJOBS feed: 10 real jobs
-posted 18–23 Nov 2026 (8 Transportation Security Officer roles,
-Maintenance Helper, Health Technician), feed last updated
-24 Nov 2026 09:36 PKT.
+Pack version: v23 (25 November 2026) — replaces v22 (v22 is LIVE
+since 24 Nov 2026). Content is v22 + fresh USAJOBS feed: 10 real
+jobs posted 18–24 Nov 2026 (all 10 Transportation Security
+Officer roles), feed last updated 25 Nov 2026 09:36 PKT.
+
+Is v23 mein kya change hua:
+- Sirf USAJOBS feed refresh — 10 naye jobs (posted 18–24 Nov
+  2026). Design, title, pages, FAQ, schema — sab kuch v22 jaisa
+  hi hai; koi aur change nahi.
 
 Is v22 mein kya change hua:
 - Sirf USAJOBS feed refresh — 10 naye jobs (posted 18–23 Nov

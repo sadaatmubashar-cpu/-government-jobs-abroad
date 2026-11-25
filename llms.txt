@@ -52,10 +52,10 @@ Snapshot of the latest US federal vacancies from USAJOBS.gov (the official US fe
 - Transportation Security Officer — Transportation Security Administration, Bangor, Maine. Closes 16 December 2026. https://www.usajobs.gov/job/852015100
 - Transportation Security Officer — Transportation Security Administration, Williston, North Dakota. Closes 18 January 2027. https://www.usajobs.gov/job/852902200
 - Transportation Security Officer — Transportation Security Administration, Hailey, Idaho. Closes 21 December 2026. https://www.usajobs.gov/job/852967600
+- Transportation Security Officer — Transportation Security Administration, Columbus, Ohio. Closes 22 December 2026. https://www.usajobs.gov/job/853169700
+- Transportation Security Officer — Transportation Security Administration, Bar Harbor, Maine. Closes 22 December 2026. https://www.usajobs.gov/job/854875700
 - Transportation Security Officer — Transportation Security Administration, Romulus, Michigan. Closes 3 December 2026. https://www.usajobs.gov/job/858466100
-- Maintenance Helper — Commander, Navy Installations Command, Colts Neck, New Jersey. Closes 7 December 2026. https://www.usajobs.gov/job/873415700
-- Health Technician (Hearing Instrument Specialist) — Veterans Health Administration, Atlanta, Georgia. Closes 30 November 2026. https://www.usajobs.gov/job/879850100
-- Transportation Security Officer — Transportation Security Administration, Green Bay, Wisconsin. Closes 16 December 2026. https://www.usajobs.gov/job/880521100
+- Transportation Security Officer — Transportation Security Administration, Eau Claire, Wisconsin. Closes 22 December 2026. https://www.usajobs.gov/job/868485000
 <!-- LATEST-USA-JOBS:END -->
 
 ## Country hubs
