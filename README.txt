@@ -1,10 +1,26 @@
-Government Jobs Abroad — Upload Pack v23
+Government Jobs Abroad — Upload Pack v24
 =========================================
 Subdomain: jobs.toolmater.com
-Pack version: v23 (25 November 2026) — replaces v22 (v22 is LIVE
-since 24 Nov 2026). Content is v22 + fresh USAJOBS feed: 10 real
-jobs posted 18–24 Nov 2026 (all 10 Transportation Security
-Officer roles), feed last updated 25 Nov 2026 09:36 PKT.
+Pack version: v24 (25 November 2026) — replaces v23 (v23 is LIVE
+since 25 Nov 2026). Content is v23 + claude-seo audit fixes:
+diverse USAJOBS feed (10 jobs, 5 roles), HowTo schema removed,
+sitemap homepage lastmod + llms dates bumped to 25 Nov 2026.
+
+Is v24 mein kya change hua:
+- USAJOBS feed diverse kar di: ab 10 jobs 5 mukhtalif roles mein
+  hain — 3 Transportation Security Officer (Columbus, Bar Harbor,
+  Eau Claire), 2 Nurse (Marion, Ann Arbor), 2 IT Specialist
+  (Security remote, Cyber Security Springfield), 2 Administrative
+  Officer (Battle Creek, Washington DC), 1 Civil Engineer
+  (Birmingham). Sab postings pichle 7 din ki hain.
+- HowTo JSON-LD schema homepage se hata diya — Google ne HowTo
+  rich results September 2023 mein deprecate kar diye thay, is
+  liye iska koi SERP faida nahi. 3 steps wala visible content
+  waisa hi hai. FAQPage schema nahi chheri.
+- Sitemap: homepage ki lastmod 2026-11-23 se 2026-11-25 kar di
+  (homepage ki feed badli thi); baaki 15 URLs ki lastmod waisi
+  hi hai. llms.txt aur llms-full.txt ki "Last updated" bhi
+  25 November 2026 kar di.
 
 Is v23 mein kya change hua:
 - Sirf USAJOBS feed refresh — 10 naye jobs (posted 18–24 Nov

@@ -1,1 +1,77 @@
-{"jobs":[{"agency":"Transportation Security Administration","closingDate":"2027-01-18","location":"Jamestown, North Dakota","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/850368000"},{"agency":"Transportation Security Administration","closingDate":"2026-12-21","location":"Monroe, Louisiana","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/850642500"},{"agency":"Transportation Security Administration","closingDate":"2026-12-17","location":"Ithaca, New York","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/851537700"},{"agency":"Transportation Security Administration","closingDate":"2026-12-16","location":"Bangor, Maine","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/852015100"},{"agency":"Transportation Security Administration","closingDate":"2027-01-18","location":"Williston, North Dakota","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/852902200"},{"agency":"Transportation Security Administration","closingDate":"2026-12-21","location":"Hailey, Idaho","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/852967600"},{"agency":"Transportation Security Administration","closingDate":"2026-12-22","location":"Columbus, Ohio","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/853169700"},{"agency":"Transportation Security Administration","closingDate":"2026-12-22","location":"Bar Harbor, Maine","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/854875700"},{"agency":"Transportation Security Administration","closingDate":"2026-12-03","location":"Romulus, Michigan","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/858466100"},{"agency":"Transportation Security Administration","closingDate":"2026-12-22","location":"Eau Claire, Wisconsin","title":"Transportation Security Officer","url":"https://www.usajobs.gov/job/868485000"}],"lastUpdated":"2026-11-25T09:36:00+05:00","portal":"https://www.usajobs.gov/","source":"USAJOBS.gov — official US federal jobs portal"}
+{
+  "jobs": [
+    {
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-22",
+      "location": "Columbus, Ohio",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/853169700"
+    },
+    {
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-22",
+      "location": "Bar Harbor, Maine",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/854875700"
+    },
+    {
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-22",
+      "location": "Eau Claire, Wisconsin",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/868485000"
+    },
+    {
+      "agency": "Veterans Health Administration",
+      "closingDate": "2026-12-07",
+      "location": "Marion, Illinois",
+      "title": "RN - Med/Surg",
+      "url": "https://www.usajobs.gov/job/894265500"
+    },
+    {
+      "agency": "Veterans Health Administration",
+      "closingDate": "2026-11-30",
+      "location": "Ann Arbor, Michigan",
+      "title": "Registered Nurse",
+      "url": "https://www.usajobs.gov/job/894277700"
+    },
+    {
+      "agency": "Administrative Office of the U.S. Courts",
+      "closingDate": "2026-12-09",
+      "location": "Anywhere in the U.S. (remote job)",
+      "title": "IT Specialist (Security)",
+      "url": "https://www.usajobs.gov/job/894142700"
+    },
+    {
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-02",
+      "location": "Springfield, Virginia",
+      "title": "IT Cyber Security Specialist",
+      "url": "https://www.usajobs.gov/job/894157300"
+    },
+    {
+      "agency": "Veterans Health Administration",
+      "closingDate": "2026-12-03",
+      "location": "Battle Creek, Michigan",
+      "title": "Administrative Officer",
+      "url": "https://www.usajobs.gov/job/894306100"
+    },
+    {
+      "agency": "Armed Forces Retirement Home",
+      "closingDate": "2026-12-09",
+      "location": "Washington, District of Columbia",
+      "title": "Administrative Officer",
+      "url": "https://www.usajobs.gov/job/893887800"
+    },
+    {
+      "agency": "U.S. Coast Guard",
+      "closingDate": "2026-12-03",
+      "location": "Birmingham, Alabama",
+      "title": "Civil Engineer",
+      "url": "https://www.usajobs.gov/job/894007600"
+    }
+  ],
+  "lastUpdated": "2026-11-25T09:36:00+05:00",
+  "portal": "https://www.usajobs.gov/",
+  "source": "USAJOBS.gov — official US federal jobs portal"
+}
