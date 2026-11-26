@@ -1,10 +1,16 @@
-Government Jobs Abroad — Upload Pack v24
+Government Jobs Abroad — Upload Pack v25
 =========================================
 Subdomain: jobs.toolmater.com
-Pack version: v24 (25 November 2026) — replaces v23 (v23 is LIVE
-since 25 Nov 2026). Content is v23 + claude-seo audit fixes:
-diverse USAJOBS feed (10 jobs, 5 roles), HowTo schema removed,
-sitemap homepage lastmod + llms dates bumped to 25 Nov 2026.
+Pack version: v25 (26 November 2026) — replaces v24 (v24 is LIVE
+since 25 Nov 2026). Content is v24 + daily USAJOBS feed refresh
+only: 10 jobs, 5 roles — 1 Transportation Security Officer (Cape
+Girardeau), 3 Nurse (Ann Arbor, Marion, Indianapolis), 3 IT (Security
+remote, Cyber Security Springfield, ServiceNow SME Washington DC),
+2 Administrative Officer (Battle Creek, Washington DC), 1 Civil
+Engineer (Farmington). Sab postings 24–25 Nov 2026 ki hain. Sitemap
+homepage lastmod + llms dates 26 Nov 2026 kar di (homepage ki feed
+badli thi); baaki 15 URLs ki lastmod waisi hi hai. HowTo schema
+nahi hai, FAQPage schema waisi hi hai, JobPosting kahin nahi.
 
 Is v24 mein kya change hua:
 - USAJOBS feed diverse kar di: ab 10 jobs 5 mukhtalif roles mein
