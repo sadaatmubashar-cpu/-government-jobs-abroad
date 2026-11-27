@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "agency": "National Nuclear Security Administration",
+      "closingDate": "2026-12-31",
+      "location": "Schenectady, New York; Pittsburgh, Pennsylvania",
+      "title": "General Engineer",
+      "url": "https://www.usajobs.gov/job/894391700"
+    },
+    {
       "agency": "Transportation Security Administration",
       "closingDate": "2027-01-20",
       "location": "Cape Girardeau, Missouri",
@@ -29,13 +36,6 @@
       "url": "https://www.usajobs.gov/job/894265500"
     },
     {
-      "agency": "Veterans Health Administration",
-      "closingDate": "2026-12-02",
-      "location": "Indianapolis, Indiana",
-      "title": "Nurse",
-      "url": "https://www.usajobs.gov/job/894172900"
-    },
-    {
       "agency": "Administrative Office of the U.S. Courts",
       "closingDate": "2026-12-09",
       "location": "Anywhere in the U.S. (remote job)",
@@ -57,21 +57,21 @@
       "url": "https://www.usajobs.gov/job/893887800"
     },
     {
-      "agency": "Securities and Exchange Commission",
-      "closingDate": "2026-12-09",
-      "location": "Washington, District of Columbia",
-      "title": "ServiceNow Subject Matter Expert",
-      "url": "https://www.usajobs.gov/job/894109900"
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-22",
+      "location": "Columbus, Ohio",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/853169700"
     },
     {
-      "agency": "Bureau of Reclamation",
-      "closingDate": "2026-12-18",
-      "location": "Farmington, New Mexico",
-      "title": "CIVIL ENGINEER",
-      "url": "https://www.usajobs.gov/job/894099700"
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-22",
+      "location": "Bar Harbor, Maine",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/854875700"
     }
   ],
-  "lastUpdated": "2026-11-26T09:36:00+05:00",
+  "lastUpdated": "2026-11-27T09:36:00+05:00",
   "portal": "https://www.usajobs.gov/",
-  "source": "USAJOBS.gov — official US federal jobs portal"
+  "source": "USAJOBS.gov \u2014 official US federal jobs portal"
 }
