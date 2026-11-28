@@ -1,17 +1,17 @@
-Government Jobs Abroad — Upload Pack v26
+Government Jobs Abroad — Upload Pack v27
 =========================================
 Subdomain: jobs.toolmater.com
-Pack version: v26 (27 November 2026) — replaces v25 (v25 is LIVE
-since 26 Nov 2026). Content is v25 + daily USAJOBS feed refresh
-only + hero LCP animation fix: 10 jobs, 5 roles — 1 General Engineer
-(Schenectady/Pittsburgh), 3 Transportation Security Officer (Cape
-Girardeau, Columbus, Bar Harbor), 2 Nurse (Ann Arbor, Marion),
-2 IT (Security remote, Cyber Security Springfield), 2 Administrative
-Officer (Battle Creek, Washington DC). Sab postings 24–25 Nov 2026
-ki hain. Hero fade-in animation (riseIn) hata di — mobile LCP fix.
-Sitemap homepage lastmod + llms dates 27 Nov 2026 kar di (homepage
-ki feed badli thi); baaki 15 URLs ki lastmod waisi hi hai. HowTo
-schema nahi hai, FAQPage schema waisi hi hai, JobPosting kahin nahi.
+Pack version: v27 (28 November 2026) — replaces v26 (v26 is LIVE
+since 27 Nov 2026). Content is v26 + daily USAJOBS feed refresh
++ font preload CLS fix: 10 jobs, 4 roles — 3 Nurse (Danville,
+Menlo Park, Ann Arbor), 2 Transportation Security Officer
+(Rockford, Cape Girardeau), 3 Engineer (Fort Huachuca, Multiple
+Locations, Rock Island), 2 Administrative Officer (Naples, Battle
+Creek). Sab postings 25–27 Nov 2026 ki hain. Font preload link
+add kiya — Public Sans woff2 preload, CLS fix. Sitemap homepage
+lastmod + llms dates 28 Nov 2026 kar di (homepage ki feed badli
+thi); baaki 15 URLs ki lastmod waisi hi hai. HowTo schema nahi
+hai, FAQPage schema waisi hi hai, JobPosting kahin nahi.
 
 Is v24 mein kya change hua:
 - USAJOBS feed diverse kar di: ab 10 jobs 5 mukhtalif roles mein

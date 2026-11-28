@@ -1,9 +1,44 @@
 {
   "jobs": [
     {
+      "agency": "Veterans Health Administration",
+      "closingDate": "2026-12-07",
+      "location": "Danville, Illinois",
+      "title": "Registered Nurse - Nurse Manager",
+      "url": "https://www.usajobs.gov/job/894447900"
+    },
+    {
+      "agency": "Veterans Health Administration",
+      "closingDate": "2026-12-02",
+      "location": "Menlo Park, California",
+      "title": "RN, Assistant Nurse Manager - Mental Health Trauma Recovery Service",
+      "url": "https://www.usajobs.gov/job/894443800"
+    },
+    {
+      "agency": "Transportation Security Administration",
+      "closingDate": "2026-12-24",
+      "location": "Rockford, Illinois",
+      "title": "Transportation Security Officer",
+      "url": "https://www.usajobs.gov/job/868848300"
+    },
+    {
+      "agency": "Department of War Education Activity",
+      "closingDate": "2026-12-01",
+      "location": "Naples, Italy",
+      "title": "Administrative Officer",
+      "url": "https://www.usajobs.gov/job/894302300"
+    },
+    {
+      "agency": "U.S. Army Cyber Command",
+      "closingDate": "2026-12-07",
+      "location": "Fort Huachuca, Arizona",
+      "title": "General Engineer",
+      "url": "https://www.usajobs.gov/job/894013500"
+    },
+    {
       "agency": "National Nuclear Security Administration",
       "closingDate": "2026-12-31",
-      "location": "Schenectady, New York; Pittsburgh, Pennsylvania",
+      "location": "Multiple Locations",
       "title": "General Engineer",
       "url": "https://www.usajobs.gov/job/894391700"
     },
@@ -29,49 +64,14 @@
       "url": "https://www.usajobs.gov/job/894277700"
     },
     {
-      "agency": "Veterans Health Administration",
+      "agency": "United States Army Installation Management Command",
       "closingDate": "2026-12-07",
-      "location": "Marion, Illinois",
-      "title": "RN - Med/Surg",
-      "url": "https://www.usajobs.gov/job/894265500"
-    },
-    {
-      "agency": "Administrative Office of the U.S. Courts",
-      "closingDate": "2026-12-09",
-      "location": "Anywhere in the U.S. (remote job)",
-      "title": "IT Specialist (Security)",
-      "url": "https://www.usajobs.gov/job/894142700"
-    },
-    {
-      "agency": "Transportation Security Administration",
-      "closingDate": "2026-12-02",
-      "location": "Springfield, Virginia",
-      "title": "IT Cyber Security Specialist",
-      "url": "https://www.usajobs.gov/job/894157300"
-    },
-    {
-      "agency": "Armed Forces Retirement Home",
-      "closingDate": "2026-12-09",
-      "location": "Washington, District of Columbia",
-      "title": "Administrative Officer",
-      "url": "https://www.usajobs.gov/job/893887800"
-    },
-    {
-      "agency": "Transportation Security Administration",
-      "closingDate": "2026-12-22",
-      "location": "Columbus, Ohio",
-      "title": "Transportation Security Officer",
-      "url": "https://www.usajobs.gov/job/853169700"
-    },
-    {
-      "agency": "Transportation Security Administration",
-      "closingDate": "2026-12-22",
-      "location": "Bar Harbor, Maine",
-      "title": "Transportation Security Officer",
-      "url": "https://www.usajobs.gov/job/854875700"
+      "location": "Rock Island, Illinois",
+      "title": "Electrical Engineer",
+      "url": "https://www.usajobs.gov/job/894271500"
     }
   ],
-  "lastUpdated": "2026-11-27T09:36:00+05:00",
+  "lastUpdated": "2026-11-28T09:36:00+05:00",
   "portal": "https://www.usajobs.gov/",
   "source": "USAJOBS.gov \u2014 official US federal jobs portal"
 }
